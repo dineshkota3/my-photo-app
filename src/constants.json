@@ -7,7 +7,11 @@
                 51.5,
                 -0.09
             ],
-            "key": "marker1"
+            "key": "marker1",
+            "images":
+            [
+                "Dog", "Tree"
+            ]
         },
         {
             "position":
@@ -15,7 +19,11 @@
                 51.51,
                 -0.1
             ],
-            "key": "marker2"
+            "key": "marker2",
+            "images":
+            [
+                "Tree"
+            ]
         },
         {
             "position":
@@ -23,7 +31,11 @@
                 51.49,
                 -0.1
             ],
-            "key": "marker3"
+            "key": "marker3",
+            "images":
+            [
+                "Dog"
+            ]
         }
     ]
 }

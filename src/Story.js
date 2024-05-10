@@ -9,9 +9,9 @@ const Story = ({map}) => {
         <div className={styles.maskedOverflow}>
             <div className = {styles.innerSection}>
                 {constants.markers.map((marker) => (
-                    <Section identification={marker.key} 
+                    <Section marker={marker} 
                                 map = {map} 
-                                positionValue ={marker.position}/>
+                                />
                             ))
                     }
             </div>

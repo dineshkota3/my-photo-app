@@ -1,28 +1,29 @@
 import React, { useRef } from "react";
 import { MapContainer, TileLayer, Marker } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import L from 'leaflet';
 import Story from './Story';
 import constants from './constants.json';
+import markerIconPng from "leaflet/dist/images/marker-icon.png"
+import {Icon} from 'leaflet'
+
 
 class SimpleMap extends React.Component{
-
     constructor(props) {
         super(props);
         this.state = {
           markers: constants.markers,
           mapRef: React.createRef()
         };
-        L.Icon.Default.imagePath='img/'
       }
 
       handleMarkerClick = (variable, positionValue) => {
         document.getElementById(variable).scrollIntoView({behavior: 'smooth',block: 'center',
         inline: 'center'});
-        this.state.mapRef.current.panTo(positionValue);
+        this.state.mapRef.current.flyTo(positionValue, 13);
       };
 
   render() {
+
     return ( 
         <div className='rowC'>
             <MapContainer
@@ -38,6 +39,7 @@ class SimpleMap extends React.Component{
       {this.state.markers.map((marker) => (
         <Marker
           key={marker.key}
+          icon={new Icon({iconUrl: markerIconPng, iconSize: [25, 41], iconAnchor: [12, 41]})}
           position={marker.position}
           eventHandlers={{
             click: () => this.handleMarkerClick(marker.key,marker.position)
@@ -47,9 +49,7 @@ class SimpleMap extends React.Component{
       ))}
     </MapContainer>
         <Story map={this.state.mapRef}/>
-        </div>
-      // Make sure you set the height and width of the map container otherwise the map won't show
-      
+        </div>      
     );
   };
 }
