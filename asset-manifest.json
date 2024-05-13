@@ -1,17 +1,29 @@
 {
   "files": {
-    "main.css": "/my-photo-app/static/css/main.36e63329.css",
-    "main.js": "/my-photo-app/static/js/main.30f88d7b.js",
+    "main.css": "/my-photo-app/static/css/main.d6e23051.css",
+    "main.js": "/my-photo-app/static/js/main.9702c642.js",
     "static/js/453.16141326.chunk.js": "/my-photo-app/static/js/453.16141326.chunk.js",
+    "static/media/kampala1.jpg": "/my-photo-app/static/media/kampala1.dd06ee686e6253c4ff43.jpg",
+    "static/media/nairobi2.jpg": "/my-photo-app/static/media/nairobi2.a63867ad5123e1e813df.jpg",
+    "static/media/kampala4.jpg": "/my-photo-app/static/media/kampala4.1250c641aa097102e9de.jpg",
+    "static/media/kampala3.jpg": "/my-photo-app/static/media/kampala3.c8a6ffe808aeeef9092b.jpg",
+    "static/media/jinja3.jpg": "/my-photo-app/static/media/jinja3.71dd23a839813f718931.jpg",
+    "static/media/nairobi1.jpg": "/my-photo-app/static/media/nairobi1.e0c0c25badb641684584.jpg",
+    "static/media/kampala5.jpg": "/my-photo-app/static/media/kampala5.518f97948a64be68d71e.jpg",
+    "static/media/jinja1.jpg": "/my-photo-app/static/media/jinja1.d858240de55fae155c78.jpg",
+    "static/media/nairobi3.jpg": "/my-photo-app/static/media/nairobi3.cbc9a826d765c69c59a2.jpg",
+    "static/media/jinja2.jpg": "/my-photo-app/static/media/jinja2.bcc8b4fd945361fd7d16.jpg",
+    "static/media/nairobi4.jpg": "/my-photo-app/static/media/nairobi4.dd99e7f7eda6c1e1fc0e.jpg",
+    "static/media/kampala2.jpg": "/my-photo-app/static/media/kampala2.154e3e1d5d46a323240a.jpg",
     "static/media/tree.png": "/my-photo-app/static/media/tree.6494c34cf232a614a509.png",
     "static/media/dog.png": "/my-photo-app/static/media/dog.5cc03cbc6e039e7e9ef0.png",
     "index.html": "/my-photo-app/index.html",
-    "main.36e63329.css.map": "/my-photo-app/static/css/main.36e63329.css.map",
-    "main.30f88d7b.js.map": "/my-photo-app/static/js/main.30f88d7b.js.map",
+    "main.d6e23051.css.map": "/my-photo-app/static/css/main.d6e23051.css.map",
+    "main.9702c642.js.map": "/my-photo-app/static/js/main.9702c642.js.map",
     "453.16141326.chunk.js.map": "/my-photo-app/static/js/453.16141326.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.36e63329.css",
-    "static/js/main.30f88d7b.js"
+    "static/css/main.d6e23051.css",
+    "static/js/main.9702c642.js"
   ]
 }
