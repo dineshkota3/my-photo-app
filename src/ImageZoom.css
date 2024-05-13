@@ -12,9 +12,5 @@
     margin-right: 10px; /* Add margin between images */
     height: 100px; /* Set image height */
     width: 100px; /* Set image width */
+    object-fit: cover; /* Crop the image to cover the container */
   }
-  
-  .image-zoom:hover {
-    transform: scale(5); /* Zoom effect on hover */
-  }
-  

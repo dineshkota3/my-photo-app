@@ -4,15 +4,45 @@
         {
             "position":
             [
-                51.505,
-                -0.09
+                0.3152,
+                32.5816
             ],
-            "key": "marker1",
+            "location" : "Kampala, Uganda",
+            "key": "kampala",
             "images":
             [
-                "Dog", "Tree", "Tree", "Dog"
+                "Kampala1", "Kampala2", "Kampala3", "Kampala4", "Kampala5"
             ],
-            "date" : "2014-01-01",
+            "date" : "January 2024",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                0.4479,
+                33.2026
+            ],
+            "location" : "Jinja, Source of River Nile, Uganda",
+            "key": "jinja",
+            "images":
+            [
+                "Jinja1", "Jinja2", "Jinja3"
+            ],
+            "date" : "January 2024",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                -1.28333, 36.81667
+            ],
+            "location" : "Nairobi, Kenya",
+            "key": "nairobi",
+            "images":
+            [
+                "Nairobi1", "Nairobi2", "Nairobi3", "Nairobi4"
+            ],
+            "date" : "January 2024",
             "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
         },
         {
@@ -21,6 +51,7 @@
                 46.6863,
                 7.8632
             ],
+            "location" : "Nairobi, Kenya",
             "key": "marker2",
             "images":
             [
@@ -36,6 +67,7 @@
                 41.49,
                 -0.1
             ],
+            "location" : "Nairobi, Kenya",
             "key": "marker3",
             "images":
             [

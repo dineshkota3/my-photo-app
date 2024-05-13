@@ -9,7 +9,7 @@
     --scrollbar-width: 8px;
 
     /* mask fade distance, for use in mask calculations */
-    --mask-height: 250px;
+    --mask-height: 0px;
 
     /* If content exceeds height of container, overflow! */
     overflow-y: auto;
@@ -19,7 +19,7 @@
     /*padding-bottom: var(--mask-height);*/
 
     /* Keep some space between content and scrollbar */
-    padding-right: 20px;
+    /*padding-right: 20px;*/
 
     /* The CSS mask */
 
@@ -76,11 +76,7 @@
 }
 
 .card {
-    border-radius: 20px;
-    border-color: black;
-    border-width: 2px;
-    border-style:solid;
-    margin: 10px;
+    border-bottom: 1px solid #f0f0f0;
     margin-bottom: 100px;
     margin-top: 100px;
     padding: 5px;

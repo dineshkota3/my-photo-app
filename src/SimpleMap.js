@@ -27,7 +27,7 @@ class SimpleMap extends React.Component{
     return ( 
         <div className='rowC'>
             <MapContainer
-      center={[51.505, -0.09]}
+      center={this.state.markers[0].position}
       zoom={13}
       style={{ height: '100vh', width:"50%" }}
       ref={this.state.mapRef}

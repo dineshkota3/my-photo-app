@@ -31,9 +31,10 @@ const Section = ({ marker, map }) => {
   return (
     <div id = {marker.key} style = {{height : windowHeight*3/5}} className={styles.card} onClick={() => map.current.flyTo(marker.position,13)}>
     <div ref={divRef}>
-      <h2 style = {{height : windowHeight*0.5/5}}>{marker.date} </h2>
+      <h2 style = {{height : windowHeight*0.4/5}}>{marker.date} </h2>
+      <h2 style = {{height : windowHeight*0.4/5}}>{marker.location} </h2>
       <p style = {{height : windowHeight*0.5/5}}>{marker.description}</p>
-    <div style = {{height : windowHeight*2/5}} className="image-zoom-container"> 
+    <div style = {{height : windowHeight*1.5/5}} className="image-zoom-container"> 
     {
         marker.images.map((image) => (
             <ImageZoom key={marker.key + imagesImport[image]} src={imagesImport[image]} alt={marker.key + imagesImport[image]} />
