@@ -6,10 +6,11 @@ import constants from './constants.json';
 
 const Story = ({map}) => {
     return (
-        <div className={styles.maskedOverflow}>
+        <div id = "originalStory" className={styles.maskedOverflow}>
             <div className = {styles.innerSection}>
                 {constants.markers.map((marker) => (
-                    <Section marker={marker} 
+                    <Section key={marker.key}
+                    marker={marker} 
                                 map = {map} 
                                 />
                             ))
