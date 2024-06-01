@@ -4,6 +4,66 @@
         {
             "position":
             [
+                37.9838,
+                23.7275
+            ],
+            "location" : "Athens, Greece",
+            "key": "athens",
+            "images":
+            [
+                "Athens1", "Athens2", "Athens3", "Athens4"
+            ],
+            "date" : "May 2024",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                37.5206,
+                23.4717
+            ],
+            "location" : "Poros, Greece",
+            "key": "poros",
+            "images":
+            [
+                "Poros1", "Poros2", "Poros3", "Poros4"
+            ],
+            "date" : "May 2024",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                37.7870,
+                20.8999
+            ],
+            "location" : "Zakynthos, Greece",
+            "key": "zakynthos",
+            "images":
+            [
+                "Zakynthos1", "Zakynthos2", "Zakynthos3", "Zakynthos4", "Zakynthos5"
+            ],
+            "date" : "May 2024",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                37.7409,
+                23.5014
+            ],
+            "location" : "Aegina, Greece",
+            "key": "aegina",
+            "images":
+            [
+                "Aegina1", "Aegina2", "Aegina3"
+            ],
+            "date" : "May 2024",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
                 0.3152,
                 32.5816
             ],
