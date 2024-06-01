@@ -1,29 +1,45 @@
 {
   "files": {
     "main.css": "/my-photo-app/static/css/main.d6e23051.css",
-    "main.js": "/my-photo-app/static/js/main.9702c642.js",
+    "main.js": "/my-photo-app/static/js/main.5514dfcb.js",
     "static/js/453.16141326.chunk.js": "/my-photo-app/static/js/453.16141326.chunk.js",
     "static/media/kampala1.jpg": "/my-photo-app/static/media/kampala1.dd06ee686e6253c4ff43.jpg",
+    "static/media/poros2.jpg": "/my-photo-app/static/media/poros2.00f71e44babd40051145.jpg",
+    "static/media/zakynthos3.jpg": "/my-photo-app/static/media/zakynthos3.23e244ece51f3ec7eef2.jpg",
+    "static/media/poros3.jpg": "/my-photo-app/static/media/poros3.c811bd5711f58a878a7a.jpg",
     "static/media/nairobi2.jpg": "/my-photo-app/static/media/nairobi2.a63867ad5123e1e813df.jpg",
+    "static/media/zakynthos4.jpg": "/my-photo-app/static/media/zakynthos4.2dbd0485add81bdb8214.jpg",
+    "static/media/zakynthos1.jpg": "/my-photo-app/static/media/zakynthos1.6c3b33e01e024c0f16b3.jpg",
+    "static/media/aegina3.jpg": "/my-photo-app/static/media/aegina3.392463e4c2c319b94552.jpg",
+    "static/media/athens3.jpg": "/my-photo-app/static/media/athens3.96b08b95fe2163d9f662.jpg",
+    "static/media/athens2.jpg": "/my-photo-app/static/media/athens2.467f59d63895b09c854f.jpg",
     "static/media/kampala4.jpg": "/my-photo-app/static/media/kampala4.1250c641aa097102e9de.jpg",
+    "static/media/zakynthos5.jpg": "/my-photo-app/static/media/zakynthos5.5bdc7f0404b07912a940.jpg",
     "static/media/kampala3.jpg": "/my-photo-app/static/media/kampala3.c8a6ffe808aeeef9092b.jpg",
+    "static/media/aegina2.jpg": "/my-photo-app/static/media/aegina2.aa7ccee695c3e9cda1db.jpg",
     "static/media/jinja3.jpg": "/my-photo-app/static/media/jinja3.71dd23a839813f718931.jpg",
     "static/media/nairobi1.jpg": "/my-photo-app/static/media/nairobi1.e0c0c25badb641684584.jpg",
     "static/media/kampala5.jpg": "/my-photo-app/static/media/kampala5.518f97948a64be68d71e.jpg",
     "static/media/jinja1.jpg": "/my-photo-app/static/media/jinja1.d858240de55fae155c78.jpg",
+    "static/media/athens1.jpg": "/my-photo-app/static/media/athens1.a4e4f7f20ca43b81fb67.jpg",
+    "static/media/athens4.jpg": "/my-photo-app/static/media/athens4.e825f9ea41c2eceb4c5a.jpg",
+    "static/media/aegina1.jpg": "/my-photo-app/static/media/aegina1.8469be124228fc235165.jpg",
     "static/media/nairobi3.jpg": "/my-photo-app/static/media/nairobi3.cbc9a826d765c69c59a2.jpg",
+    "static/media/poros4.jpg": "/my-photo-app/static/media/poros4.2939a8963afcefa68554.jpg",
     "static/media/jinja2.jpg": "/my-photo-app/static/media/jinja2.bcc8b4fd945361fd7d16.jpg",
+    "static/media/poros1.jpg": "/my-photo-app/static/media/poros1.602c943d06c2f5419802.jpg",
     "static/media/nairobi4.jpg": "/my-photo-app/static/media/nairobi4.dd99e7f7eda6c1e1fc0e.jpg",
     "static/media/kampala2.jpg": "/my-photo-app/static/media/kampala2.154e3e1d5d46a323240a.jpg",
+    "static/media/zakynthos2.jpg": "/my-photo-app/static/media/zakynthos2.89bd371fbd44a93e96e6.jpg",
     "static/media/tree.png": "/my-photo-app/static/media/tree.6494c34cf232a614a509.png",
     "static/media/dog.png": "/my-photo-app/static/media/dog.5cc03cbc6e039e7e9ef0.png",
     "index.html": "/my-photo-app/index.html",
     "main.d6e23051.css.map": "/my-photo-app/static/css/main.d6e23051.css.map",
-    "main.9702c642.js.map": "/my-photo-app/static/js/main.9702c642.js.map",
+    "main.5514dfcb.js.map": "/my-photo-app/static/js/main.5514dfcb.js.map",
     "453.16141326.chunk.js.map": "/my-photo-app/static/js/453.16141326.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6e23051.css",
-    "static/js/main.9702c642.js"
+    "static/js/main.5514dfcb.js"
   ]
 }
