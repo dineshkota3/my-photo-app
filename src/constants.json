@@ -64,6 +64,21 @@
         {
             "position":
             [
+                25.2854,
+                51.5310
+            ],
+            "location" : "Doha, Qatar",
+            "key": "qatar",
+            "images":
+            [
+                "Qatar1", "Qatar2", "Qatar3", "Qatar4"
+            ],
+            "date" : "January 2024",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
                 0.3152,
                 32.5816
             ],
@@ -108,32 +123,166 @@
         {
             "position":
             [
-                46.6863,
-                7.8632
+                -1.4821,
+                35.1300
             ],
-            "location" : "Nairobi, Kenya",
-            "key": "marker2",
+            "location" : "Masai Mara, Kenya",
+            "key": "masaimara",
             "images":
             [
-                "Tree"
+                "Masaimara1", "Masaimara2", "Masaimara3", "Masaimara4", "Masaimara5"
             ],
-            "date" : "2014-01-01",
+            "date" : "January 2024",
             "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
-
         },
         {
             "position":
             [
-                41.49,
-                -0.1
+                -4.0435,
+                39.6682
             ],
-            "location" : "Nairobi, Kenya",
-            "key": "marker3",
+            "location" : "Mombasa, Kenya",
+            "key": "mombasa",
             "images":
             [
-                "Dog"
+                "Mombasa1", "Mombasa2", "Mombasa3" 
             ],
-            "date" : "2014-01-01",
+            "date" : "January 2024",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                48.8575,
+                2.3514
+            ],
+            "location" : "Paris, France",
+            "key": "paris",
+            "images":
+            [
+                "Paris1", "Paris2", "Paris3", "Paris4", "Paris5"
+            ],
+            "date" : "August 2022",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                47.3769,
+                8.5417
+            ],
+            "location" : "Zurich, Switzerland",
+            "key": "zurich",
+            "images":
+            [
+                "Zurich1", "Zurich2", "Zurich3", "Zurich4"
+            ],
+            "date" : "August 2022",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                47.0502,
+                8.3093
+            ],
+            "location" : "Lucerne, Switzerland",
+            "key": "lucerne",
+            "images":
+            [
+                "Lucerne1", "Lucerne2", "Lucerne3"
+            ],
+            "date" : "August 2022",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                46.6863,
+                7.8632
+            ],
+            "location" : "Interlaken, Switzerland",
+            "key": "interlaken",
+            "images":
+            [
+                "Interlaken1", "Interlaken2", "Interlaken3", "Interlaken4"
+            ],
+            "date" : "August 2022",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                45.4685,
+                9.1824
+            ],
+            "location" : "Milan, Italy",
+            "key": "milan",
+            "images":
+            [
+                "Milan1", "Milan2", "Milan3"
+            ],
+            "date" : "August 2022",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                45.4404,
+                12.3160
+            ],
+            "location" : "Venice, Italy",
+            "key": "venice",
+            "images":
+            [
+                "Venice1", "Venice2", "Venice3", "Venice4", "Venice5"
+            ],
+            "date" : "August 2022",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                44.1461,
+                9.6439
+            ],
+            "location" : "Cinque Terre, Italy",
+            "key": "cinqueterre",
+            "images":
+            [
+                "CinqueTerre1", "CinqueTerre2", "CinqueTerre3"
+            ],
+            "date" : "August 2022",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                41.8967,
+                12.4822
+            ],
+            "location" : "Rome, Italy",
+            "key": "rome",
+            "images":
+            [
+                "Rome1", "Rome2", "Rome3", "Rome4", "Rome5"
+            ],
+            "date" : "August 2022",
+            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+        },
+        {
+            "position":
+            [
+                40.5532,
+                14.2222
+            ],
+            "location" : "Capri, Italy",
+            "key": "capri",
+            "images":
+            [
+                "Capri1", "Capri2", "Capri3", "Capri4"
+            ],
+            "date" : "August 2022",
             "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
         }
     ]
