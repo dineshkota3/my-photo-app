@@ -14,7 +14,7 @@
                 "Athens1", "Athens2", "Athens3", "Athens4"
             ],
             "date" : "May 2024",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -29,7 +29,7 @@
                 "Poros1", "Poros2", "Poros3", "Poros4"
             ],
             "date" : "May 2024",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -44,7 +44,7 @@
                 "Zakynthos1", "Zakynthos2", "Zakynthos3", "Zakynthos4", "Zakynthos5"
             ],
             "date" : "May 2024",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -59,7 +59,7 @@
                 "Aegina1", "Aegina2", "Aegina3"
             ],
             "date" : "May 2024",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -74,7 +74,7 @@
                 "Qatar1", "Qatar2", "Qatar3", "Qatar4"
             ],
             "date" : "January 2024",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -89,7 +89,7 @@
                 "Kampala1", "Kampala2", "Kampala3", "Kampala4", "Kampala5"
             ],
             "date" : "January 2024",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -104,7 +104,7 @@
                 "Jinja1", "Jinja2", "Jinja3"
             ],
             "date" : "January 2024",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -118,7 +118,7 @@
                 "Nairobi1", "Nairobi2", "Nairobi3", "Nairobi4"
             ],
             "date" : "January 2024",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -133,7 +133,7 @@
                 "Masaimara1", "Masaimara2", "Masaimara3", "Masaimara4", "Masaimara5"
             ],
             "date" : "January 2024",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -148,7 +148,7 @@
                 "Mombasa1", "Mombasa2", "Mombasa3" 
             ],
             "date" : "January 2024",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -163,7 +163,7 @@
                 "Paris1", "Paris2", "Paris3", "Paris4", "Paris5"
             ],
             "date" : "August 2022",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -178,7 +178,7 @@
                 "Zurich1", "Zurich2", "Zurich3", "Zurich4"
             ],
             "date" : "August 2022",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -193,7 +193,7 @@
                 "Lucerne1", "Lucerne2", "Lucerne3"
             ],
             "date" : "August 2022",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -208,7 +208,7 @@
                 "Interlaken1", "Interlaken2", "Interlaken3", "Interlaken4"
             ],
             "date" : "August 2022",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -223,7 +223,7 @@
                 "Milan1", "Milan2", "Milan3"
             ],
             "date" : "August 2022",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -238,7 +238,7 @@
                 "Venice1", "Venice2", "Venice3", "Venice4", "Venice5"
             ],
             "date" : "August 2022",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -253,7 +253,7 @@
                 "CinqueTerre1", "CinqueTerre2", "CinqueTerre3"
             ],
             "date" : "August 2022",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -268,7 +268,7 @@
                 "Rome1", "Rome2", "Rome3", "Rome4", "Rome5"
             ],
             "date" : "August 2022",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         },
         {
             "position":
@@ -283,7 +283,7 @@
                 "Capri1", "Capri2", "Capri3", "Capri4"
             ],
             "date" : "August 2022",
-            "description" : "This is a description of the marker. It can be as long as you like and can contain any characters you like."
+            "description" : "    "
         }
     ]
 }
